@@ -1,0 +1,10 @@
+#dasmoto{font-weight: bold; text-align: center; color: khaki;font-size: 25px;font-family: Helvetica;  margin-top: 10px; background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg"); height: 50px;}
+
+#brushes{background-color:mediumspringgreen;color: white;}
+
+#frames{background-color: lightcoral;color: white;}
+
+#paints{background-color: skyblue; color: white;}
+.products{font-size: 12px; font-family:Helvetica;}
+.outer{border: 1.5px solid red;}
+.inner{border: 3px; padding: 0px; margin: 3px;}
